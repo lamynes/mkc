@@ -43,7 +43,7 @@
     "imageResize": true,
     "usedWebp": true,
     "favicon": false,
-    "mbrsiteDomain": "2ch4nyowxw",
+    "mbrsiteDomain": "wabfh71bcb",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -53,7 +53,14 @@
     "uniqCompNum": 10,
     "versionPublish": "5.8.4",
     "publishChangesOnly": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "PWA": {
+      "enabled": false,
+      "name": "Mobile Kennel Club",
+      "icon": "@PROJECT_PATH@/assets/images/untitled-20-512x512.png",
+      "themeColor": "#6592e6"
+    },
+    "pwa-switcher": true
   },
   "pages": {
     "index.html": {
